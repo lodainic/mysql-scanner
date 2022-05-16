@@ -1,5 +1,5 @@
 # mysql-scanner
-MySQL database scanner is a Python desktop application(developed on Ubuntu). The GUI was build using Tkinter and backend is functional thanks to mysql.connector library. The application scans for basic database constraints violations and then offers the user to correct them.
+MySQL database scanner is a Python desktop application(developed on Ubuntu). The GUI was build using Tkinter and the backend is functional thanks to mysql.connector library. The application scans for basic database constraints violations and then offers the user to correct them.
 
 The constraints are as follows:
 
